@@ -12,6 +12,6 @@ int main() {
         }
         else if (i % 5 == 0){
             cout << "Baa" << endl;
-        }
+        } else cout << i << endl;
     }
 }
